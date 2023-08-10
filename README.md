@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Abhishek Pratap Singh</h1>
-<h3 align="center">I'm a passionate Data Analyst with a flair for innovation and problem-solving. I'm always eager to connect and explore new opportunities in the world of Analytics from India.</h3>
+<h3 align="center">I'm a passionate Data Analyst with a flair for innovation and problem-solving. I'm always eager to connect and explore new opportunities in the world of Analytics in India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aa-abhi&label=Profile%20views&color=0e75b6&style=flat" alt="aa-abhi" /> </p>
 
