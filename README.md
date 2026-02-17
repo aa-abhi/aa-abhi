@@ -11,7 +11,4 @@
 
 - 📄 Read more articles on [https://www.analyticsvidhya.com/blog/author/abhishek3491243/](https://www.analyticsvidhya.com/blog/author/abhishek3491243/)
 
-<h3 align="left">Languages and Tools:</h3>
-
-<h3 align="left">Support:</h3>
 
